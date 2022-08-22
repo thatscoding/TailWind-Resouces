@@ -1,7 +1,7 @@
 # TailWind-Resouces
 
 ### SETUP TailWind CSS
-  ✔ npm init 
+  ✔ npm init -y
    ✔ npm install -D tailwindcss postcss autoprefixer vite                         // vite is live server You can see changes instantly
     ✔ npx tailwindcss init
     
