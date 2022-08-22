@@ -15,4 +15,9 @@
           plugins: [],
         }
 
-    
+❤  ADD script in package.json file
+  "scripts": {
+    "start": "vite"
+  },
+   
+  ✔ npm start
