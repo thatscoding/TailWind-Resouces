@@ -21,3 +21,6 @@
   },
    
   ✔ npm start
+
+❤ Add CDN Link inside head tag
+  <script src="https://cdn.tailwindcss.com"></script>
